@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#172a22"/><rect x="42" y="42" width="428" height="428" rx="90" fill="#b8e3a5"/><path d="M126 225l42-48 65 6 28-35 29 35 64-6 42 48-22 36-28-5v85l-40 30H196l-40-30v-85l-28 5z" fill="#24422d"/><circle cx="207" cy="242" r="10" fill="#eaf5df"/><circle cx="305" cy="242" r="10" fill="#eaf5df"/><path d="M223 288q33 23 66 0" fill="none" stroke="#eaf5df" stroke-width="12" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="42" fill="#111111"/>
+<path d="M83 102 L135 68 H377 L429 102 L445 142 V365 L395 402 H117 L67 365 V142 Z" fill="#111111" stroke="#c87926" stroke-width="10" stroke-linejoin="round"/>
+<path d="M95 112 L141 82 H371 L417 112 L431 147 V356 L388 387 H124 L81 356 V147 Z" fill="none" stroke="#f0a044" stroke-width="3"/>
+<text x="256" y="133" fill="#e58a2f" font-family="Georgia,serif" font-size="36" font-weight="bold" text-anchor="middle" letter-spacing="1">EL POTRERO</text>
+<g fill="#d9822b" stroke="#f7f0df" stroke-width="5" stroke-linejoin="round">
+<path d="M244 197 C199 190 160 191 127 167 C111 155 95 144 79 151 C102 160 113 190 148 205 C176 218 209 213 235 221 Z"/>
+<path d="M268 197 C313 190 352 191 385 167 C401 155 417 144 433 151 C410 160 399 190 364 205 C336 218 303 213 277 221 Z"/>
+<path d="M177 215 C196 204 222 212 242 222 L270 222 C290 212 316 204 335 215 L318 247 L301 278 L290 344 Q256 380 222 344 L211 278 L194 247 Z"/>
+</g>
+<path d="M216 235 Q256 252 296 235 M226 270 Q256 286 286 270" fill="none" stroke="#f0a044" stroke-width="4" stroke-linecap="round"/>
+<text x="142" y="346" fill="#e58a2f" font-family="Georgia,serif" font-size="45" font-style="italic" text-anchor="middle">JL</text>
+<text x="369" y="346" fill="#e58a2f" font-family="Georgia,serif" font-size="45" font-weight="bold" text-anchor="middle">M</text>
+</svg>
